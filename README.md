@@ -7,7 +7,7 @@
 
 ## <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif" width="50px"></img> About Me
 
-- :credit_card: My full name is **Luciano Mejia Pretell** <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="400" align="right"/>
+- :credit_card: My full name is **Luciano Mejia Pretell** <img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" width="300" align="right"/>
 - :books: My major is **Informatic**
 - :sweat_smile: I'm a newbie in coding, know C++ language.
 - :monocle_face: I'm interested in coding, sleeping, and playing video games.
